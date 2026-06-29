@@ -10,3 +10,4 @@ FreedomChat is a very simple plugin that makes player chat unreportable. Freedom
 Installing this plugin is very simple. Just download it and put it in your plugins folder. There is no configuration, it is always active.
 
 If you get an error when the plugin is enabling or when the players are joining, you have likely downloaded the wrong version! Each Minecraft version has its own plugin version.
+
